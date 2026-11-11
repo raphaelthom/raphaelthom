@@ -21,8 +21,8 @@ and shows the result in a dashboard.
 
 ## 🏄 Other project: CBS Surf website
 
-A website for CBS Surf (CBS = Copenhagen Business School), a community that organizes surf trips. Visitors browse upcoming and past trips and request a spot via a pre-filled WhatsApp message.
-The organizers update trips, testimonials and stats in a Google Sheet, so no code changes are needed. Built with Arie Harperath, planned with Claude and built with Lovable.
+A website for CBS Surf (Copenhagen Business School), a community that organizes surf trips. Visitors browse upcoming and past trips and request a spot via a pre-filled WhatsApp message.
+The organizers update trips, testimonials and stats in a Google Sheet, so no code changes are needed. Built with Arie Harperath, planned with Claude and built with Lovable & Claude Code.
 
 **[Read the code and how it works](https://github.com/Raphi-Arie/cbssurf)**
 
