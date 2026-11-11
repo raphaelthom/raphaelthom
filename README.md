@@ -19,6 +19,15 @@ and shows the result in a dashboard.
 
 `Python` `pandas` `Plotly` `Streamlit` `pytest` `GitHub Actions` `REST APIs`
 
+## 🏄 Other project: CBS Surf website
+
+A website for CBS Surf (CBS = Copenhagen Business School), a community that organizes surf trips. Visitors browse upcoming and past trips and request a spot via a pre-filled WhatsApp message.
+The organizers update trips, testimonials and stats in a Google Sheet, so no code changes are needed. Built with Arie Harperath, planned with Claude and built with Lovable.
+
+**[Read the code and how it works](https://github.com/Raphi-Arie/cbssurf)**
+
+`React` `TypeScript` `TanStack` `Tailwind CSS` `Google Sheets` `Cloudinary` `Lovable`
+
 ## 🤖 How I work with AI
 
 - I use **Claude Code** as a pair programmer: plan first, build in small steps, test, commit.
